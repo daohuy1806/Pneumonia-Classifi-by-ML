@@ -1,3 +1,2 @@
-Vì dataset quá nhiều nên em không thể up lên fhqx được vì thế em sẽ để đường link ở đây
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
